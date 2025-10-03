@@ -50,9 +50,6 @@
 </a>
 
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=CafeRoshans&theme=radical&no-frame=true&no-bg=false&margin-w=15&row=2&column=4" />
-
-<br>
 <img src="https://raw.githubusercontent.com/CafeRoshans/CafeRoshans/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
@@ -98,16 +95,4 @@
 
 ### 🏔️ Beyond the Code
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&height=20&lines=🏔️+Mountain+Hiker;⚡+Parkour+Athlete;📊+Data+Parsing+Enthusiast;🔍+Security+Researcher" alt="Hobbies" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer&animation=fadeIn" alt="Footer"/>
-
-</div>
