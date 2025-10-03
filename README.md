@@ -89,15 +89,3 @@
 <div align="center">
 
 ## 🔥 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/CafeRoshans/PIRrate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CafeRoshans&repo=PIRrate&theme=buephy&show_owner=true" />
-  </a>
-  <a href="https://github.com/Terryroud/Harry_Potter_bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Terryroud&repo=Harry_Potter_bot&theme=buephy&show_owner=true" />
-  </a>
-</p>
-
-</div>
-
