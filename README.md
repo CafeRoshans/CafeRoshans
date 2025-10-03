@@ -44,17 +44,14 @@
 
 <div align="center">
 
-<!-- Статистика с анимацией -->
 <a href="https://github.com/CafeRoshans">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CafeRoshans&show_icons=true&hide_border=true&theme=radical&hide=prs,issues&count_private=true&include_all_commits=true&line_height=27" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CafeRoshans&layout=compact&hide_border=true&theme=radical&langs_count=8&hide=html,css" />
 </a>
 
-<!-- Трофеи -->
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=CafeRoshans&theme=radical&no-frame=true&no-bg=false&margin-w=15&row=2&column=4" />
 
-<!-- Змейка с графиком контрибуций -->
 <br>
 <img src="https://raw.githubusercontent.com/CafeRoshans/CafeRoshans/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
@@ -94,8 +91,6 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-cafe2roshan@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cafe2roshan@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@YourTelegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourtelegram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 </div>
 
@@ -105,7 +100,6 @@
 
 <div align="center">
 
-<!-- Анимированные иконки хобби -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&height=20&lines=🏔️+Mountain+Hiker;⚡+Parkour+Athlete;📊+Data+Parsing+Enthusiast;🔍+Security+Researcher" alt="Hobbies" />
 
 </div>
