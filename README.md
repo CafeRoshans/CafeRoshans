@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=200&section=header&text=Hi%20there,%20I'm%20Max%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header&text=Hi%20there,%20I'm%20Max%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header"/>
 </h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6495ED&center=true&vCenter=true&width=500&height=30&lines=Information+Security+Specialist;AI+and+Machine+Learning+Enthusiast;Python%2FC%2B%2B+Developer;Data+Classification+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&height=30&lines=Information+Security+Specialist;AI+and+Machine+Learning+Enthusiast;Python%2FC%2B%2B+Developer;Data+Classification+Expert" alt="Typing SVG" />
   </a>
 </h3>
 
