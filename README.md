@@ -75,35 +75,29 @@
 
 ## 📈 GitHub Analytics
 
-<a href="https://github.com/CafeRoshans">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CafeRoshans&show_icons=true&hide_border=true&theme=buephy&hide=prs,issues&count_private=true&include_all_commits=true&line_height=27" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CafeRoshans&layout=compact&hide_border=true&theme=buephy&langs_count=8&hide=html,css" />
-</a>
+<p align="center">
+  <a href="https://github.com/CafeRoshans">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CafeRoshans&show_icons=true&hide_border=true&theme=buephy&hide=prs,issues&count_private=true&include_all_commits=true&line_height=27" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CafeRoshans&layout=compact&hide_border=true&theme=buephy&langs_count=5&card_width=400" />
+  </a>
+</p>
 
 </div>
 
 <div align="center">
 
+<div align="center">
+
 ## 🔥 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="400">
-      <a href="https://github.com/CafeRoshans/PIRrate">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CafeRoshans&repo=PIRrate&theme=buephy&show_owner=true" />
-      </a>
-      <br>
-      <sub><b>🔒 PIRrate - Security Tool</b></sub>
-    </td>
-    <td align="center" width="400">
-      <a href="https://github.com/Terryroud/Harry_Potter_bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Terryroud&repo=Harry_Potter_bot&theme=buephy&show_owner=true" />
-      </a>
-      <br>
-      <sub><b>⚡ Harry Potter Bot</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/CafeRoshans/PIRrate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CafeRoshans&repo=PIRrate&theme=buephy&show_owner=true" />
+  </a>
+  <a href="https://github.com/Terryroud/Harry_Potter_bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Terryroud&repo=Harry_Potter_bot&theme=buephy&show_owner=true" />
+  </a>
+</p>
 
 </div>
 
