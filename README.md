@@ -9,69 +9,95 @@
 </h3>
 
 <div align="center">
-  
+
+### 📫 Connect With Me
+[![Email](https://img.shields.io/badge/Email-cafe2roshan@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cafe2roshan@gmail.com)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=CafeRoshans&color=1E90FF&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/CafeRoshans?color=1E90FF&style=for-the-badge)
+</div>
+
+
+<div align="center">
   
+## 🛠️ Tech Stack & Tools
+
+  
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Languages</strong><br>
+      <img src="https://skillicons.dev/icons?i=python,cpp,js,java,bash,powershell,rust" />
+    </td>
+    <td align="center">
+      <strong>Frameworks</strong><br>
+      <img src="https://skillicons.dev/icons?i=django,flask,tensorflow,pytorch,fastapi" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Databases and DevOps</strong><br>
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,docker,kubernetes,nginx" />
+    </td>
+    <td align="center">
+      <strong>Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=git,linux,windows,vscode,pycharm" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+<sub><b>Penetration Testing & Analysis</b></sub><br>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-FF0000?style=flat-square" />
+<img src="https://img.shields.io/badge/Burp%20Suite-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
+<p align="center">
+<sub><b>Professional Focus Areas</b></sub><br>
+<img src="https://img.shields.io/badge/AI/ML-Data%20Classification-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/Cyber%20Security-Penetration%20Testing-00FF00?style=flat-square" />
+<img src="https://img.shields.io/badge/Threat%20Intelligence-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/DevSecOps-00FF00?style=flat-square" />
+<img src="https://img.shields.io/badge/Network%20Security-1679A7?style=flat-square" />
+<img src="https://img.shields.io/badge/Incident%20Response-000000?style=flat-square" />
+</p>
+
 </div>
-
----
-
-### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-**Programming Languages:**  
-<br>
-<img src="https://skillicons.dev/icons?i=python,cpp,js" />
-<br><br>
-
-**Databases & Tools:**  
-<br>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,git,docker,linux,aws" />
-<br><br>
-
-**Focus Area:**  
-<br>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Data%20Classification-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
-<img src="https://img.shields.io/badge/Cyber%20Security-Penetration%20Testing-00FF00?style=for-the-badge&logo=security&logoColor=white" />
-
-</div>
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
+## 📈 GitHub Analytics
 
 <a href="https://github.com/CafeRoshans">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CafeRoshans&show_icons=true&hide_border=true&theme=radical&hide=prs,issues&count_private=true&include_all_commits=true&line_height=27" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CafeRoshans&layout=compact&hide_border=true&theme=radical&langs_count=8&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CafeRoshans&show_icons=true&hide_border=true&theme=buephy&hide=prs,issues&count_private=true&include_all_commits=true&line_height=27" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CafeRoshans&layout=compact&hide_border=true&theme=buephy&langs_count=8&hide=html,css" />
 </a>
-
-<br>
-<img src="https://raw.githubusercontent.com/CafeRoshans/CafeRoshans/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
----
-
-### 🔥 Featured Projects
-
 <div align="center">
+
+## 🔥 Featured Projects
 
 <table>
   <tr>
     <td align="center" width="400">
       <a href="https://github.com/CafeRoshans/PIRrate">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CafeRoshans&repo=PIRrate&theme=radical&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CafeRoshans&repo=PIRrate&theme=buephy&show_owner=true" />
       </a>
       <br>
       <sub><b>🔒 PIRrate - Security Tool</b></sub>
     </td>
     <td align="center" width="400">
       <a href="https://github.com/Terryroud/Harry_Potter_bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Terryroud&repo=Harry_Potter_bot&theme=radical&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Terryroud&repo=Harry_Potter_bot&theme=buephy&show_owner=true" />
       </a>
       <br>
       <sub><b>⚡ Harry Potter Bot</b></sub>
@@ -80,19 +106,4 @@
 </table>
 
 </div>
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-cafe2roshan@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cafe2roshan@gmail.com)
-
-</div>
-
----
-
-### 🏔️ Beyond the Code
-
 
