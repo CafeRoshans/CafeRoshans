@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://github.com/CafeRoshans">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CafeRoshans&show_icons=true&hide_border=true&hide=prs,issues&count_private=true&include_all_commits=true&line_height=27&card_width=400" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CafeRoshans&show_icons=true&hide_border=true&hide=prs,issues&count_private=true&include_all_commits=true&line_height=27&card_width=350" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CafeRoshans&layout=compact&hide_border=truey&langs_count=5&card_width=300" />
   </a>
 </p>
