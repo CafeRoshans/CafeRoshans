@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header&text=Hi%20there,%20I'm%20Max%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Max%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header"/>
 </h1>
 
 <h3 align="center">
@@ -16,7 +16,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=CafeRoshans&color=6495ED&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/CafeRoshans?color=6495ED&style=for-the-badge)
 </div>
-
 
 <div align="center">
   
