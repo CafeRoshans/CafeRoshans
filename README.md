@@ -46,7 +46,7 @@
 </table>
 
 <p align="center">
-<sub><b>Penetration Testing & Analysis</b></sub><br>
+<sub><b>Penetration Testing & ML</b></sub><br>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-FF0000?style=flat-square" />
 <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=flat-square" />
